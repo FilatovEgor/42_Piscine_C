@@ -11,9 +11,9 @@
 /*                                                                            */  
 /* ************************************************************************** */  
 ```
-<br />
-4 weeks intensive in association with 21-school.ru <br />
-<br />
-Results: <br />  
-<br />
+  
+4 weeks intensive in association with 21-school.ru  
+  
+Results:  
+  
 ![](results.png)
