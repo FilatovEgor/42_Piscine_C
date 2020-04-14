@@ -1,0 +1,6 @@
+Credentials cache: API:1675083F-0E7B-4E0F-95CA-8A4A12225A70
+        Principal: tcarlena@21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Feb 24 13:36:00 2020  Feb 25 13:36:00 2020  krbtgt/21-SCHOOL.RU@21-SCHOOL.RU
+Feb 24 13:49:01 2020  Feb 25 13:36:00 2020  host/vogsphere.21-school.ru@21-SCHOOL.RU
